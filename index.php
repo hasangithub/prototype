@@ -9,13 +9,14 @@
     <link rel="stylesheet" href="assets/css/custom.css"> <!-- Custom CSS -->
 </head>
 <body>
+
     <?php include 'header.php'; ?>
 
-    <div class="container-fluid">
-        <div class="row">
+    <div class="container-fluid d-flex flex-column min-vh-100">
+        <div class="row flex-grow-1">
             <?php include 'sidebar.php'; ?>
 
-            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4 main-content">
+            <main id="main-content" class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
                     <h1 class="h2">Dashboard</h1>
                 </div>
