@@ -21,7 +21,50 @@
                     <h1 class="h2">Dashboard</h1>
                 </div>
                 <div class="content">
-                    <p>This is the main content area where you can add charts, tables, and other dashboard elements.</p>
+                <main class="container mt-4">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Vehicle ID</th>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Initial Weight</th>
+                        <th>Tare Weight</th>
+                        <th>Net Weight</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>ABC123</td>
+                        <td>2024-09-13</td>
+                        <td>08:30:00</td>
+                        <td>10000.00</td>
+                        <td>2000.00</td>
+                        <td>8000.00</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>XYZ456</td>
+                        <td>2024-09-13</td>
+                        <td>09:00:00</td>
+                        <td>12000.00</td>
+                        <td>2500.00</td>
+                        <td>9500.00</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>LMN789</td>
+                        <td>2024-09-13</td>
+                        <td>10:15:00</td>
+                        <td>11000.00</td>
+                        <td>2200.00</td>
+                        <td>8800.00</td>
+                    </tr>
+                </tbody>
+            </table>
+        </main>
                 </div>
             </main>
         </div>
