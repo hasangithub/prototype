@@ -10,20 +10,32 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">
-                    <span data-feather="file"></span>
-                    Orders
+                    <span data-feather="user"></span>
+                    Owners
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">
-                    <span data-feather="shopping-cart"></span>
-                    Products
+                    <span data-feather="briefcase"></span>
+                    Yahai
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">
                     <span data-feather="users"></span>
-                    Customers
+                    Buyers
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">
+                    <span data-feather="archive"></span>
+                    Weighbridge
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">
+                    <span data-feather="file-text"></span>
+                    Reports
                 </a>
             </li>
         </ul>
