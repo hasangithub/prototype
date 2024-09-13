@@ -21,7 +21,7 @@
                     <h1 class="h2">Dashboard</h1>
                 </div>
                 <div class="content">
-                <div class="row"><button class="btn btn-primary">Create</button></div>
+                <div class="row"><a href="create-weighbridge.php"><button class="btn btn-primary">Create</button></a></div>
                 <main class="container mt-4">
                     <table class="table table-striped">
                         <thead>
