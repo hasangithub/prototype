@@ -16,8 +16,13 @@
         <div class="row flex-grow-1">
             <?php include 'sidebar.php'; ?>
 
-            <main class="container mt-4">
-            <form>
+            <main id="main-content" class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                    <h1 class="h2">Dashboard</h1>
+                </div>
+                <div class="content">
+                <main class="container mt-4">
+                <form>
                 <div class="mb-3">
                     <label for="vehicle_id" class="form-label">Vehicle ID</label>
                     <input type="text" class="form-control" id="vehicle_id" name="vehicle_id" required>
@@ -61,7 +66,6 @@
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </main>
-
                 </div>
             </main>
         </div>
