@@ -1,4 +1,6 @@
 <!-- footer.php -->
-<footer class="bg-dark text-white text-center p-3">
-    <p>&copy; 2024 My Web App. All rights reserved.</p>
+<footer class="footer bg-dark text-white">
+    <div class="container">
+        <p class="m-0">&copy; 2024 My Web App. All rights reserved.</p>
+    </div>
 </footer>
