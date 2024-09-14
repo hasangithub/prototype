@@ -9,7 +9,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="owners.php">
                     <span data-feather="user"></span>
                     Owners
                 </a>
