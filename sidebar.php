@@ -3,7 +3,7 @@
     <div class="position-sticky pt-3">
         <ul class="nav flex-column">
             <li class="nav-item">
-                <a class="nav-link active" href="#">
+                <a class="nav-link active" href="index.php">
                     <span data-feather="home"></span>
                     Dashboard
                 </a>
@@ -15,7 +15,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="">
                     <span data-feather="briefcase"></span>
                     Yahai
                 </a>
@@ -27,7 +27,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="create-weighbridge.php">
                     <span data-feather="archive"></span>
                     Weighbridge
                 </a>
