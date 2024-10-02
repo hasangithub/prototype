@@ -15,13 +15,13 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="">
+                <a class="nav-link" href="yahai.php">
                     <span data-feather="briefcase"></span>
                     Yahai
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="buyers.php">
                     <span data-feather="users"></span>
                     Buyers
                 </a>
@@ -33,7 +33,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="reports.php">
                     <span data-feather="file-text"></span>
                     Reports
                 </a>
