@@ -23,7 +23,7 @@
                 <div class="content">
                 <div class="row"><a href="create-yahai.php"><button class="btn btn-primary">Create</button></a></div>
                 <main class="container mt-4">
-                <table>
+                <table class="table table-striped">
         <thead>
             <tr>
                 <th>ID</th>
@@ -31,10 +31,10 @@
             </tr>
         </thead>
         <tbody>
-            <tr><td>1</td><td>Kaze</td></tr>
-            <tr><td>2</td><td>Haku</td></tr>
-            <tr><td>3</td><td>Chun</td></tr>
-            <tr><td>4</td><td>Hatsu</td></tr>
+            <tr><td>1</td><td>Ariyakuda West</td></tr>
+            <tr><td>2</td><td>Keerimundel</td></tr>
+            <tr><td>3</td><td>Chinna Keerimundel</td></tr>
+            <tr><td>4</td><td>Pattiyadi Kuda</td></tr>
             <tr><td>5</td><td>Nan</td></tr>
             <tr><td>6</td><td>Pei</td></tr>
             <tr><td>7</td><td>Ton</td></tr>
